@@ -8,13 +8,3 @@
 	url = https://github.com/fgcz/msbackendrawfilereader
 	shallow = true
 	registered = true
-[submodule "rawrr"]
-	path = rawrr
-	url = https://github.com/fgcz/rawrr
-	shallow = true
-	registered = true
-[submodule "specL"]
-	path = specL
-	url = https://github.com/fgcz/specl
-	shallow = true
-	registered = true
