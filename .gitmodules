@@ -3,8 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MsBackendRawFileReader"]
-	path = MsBackendRawFileReader
-	url = https://github.com/fgcz/msbackendrawfilereader
+[submodule "rawrr"]
+	path = rawrr
+	url = https://github.com/fgcz/rawrr
 	shallow = true
 	registered = true
