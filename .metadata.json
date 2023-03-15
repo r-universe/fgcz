@@ -1,11 +1,11 @@
 [
   {
-    "package": "MsBackendRawFileReader"
+    "package": "specL"
   },
   {
     "package": "rawrr"
   },
   {
-    "package": "specL"
+    "package": "MsBackendRawFileReader"
   }
 ]
