@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "specL"]
-	path = specL
-	url = https://github.com/fgcz/specl
+[submodule "MsBackendRawFileReader"]
+	path = MsBackendRawFileReader
+	url = https://github.com/fgcz/msbackendrawfilereader
 	shallow = true
 	registered = true
 [submodule "rawrr"]
@@ -13,8 +13,8 @@
 	url = https://github.com/fgcz/rawrr
 	shallow = true
 	registered = true
-[submodule "MsBackendRawFileReader"]
-	path = MsBackendRawFileReader
-	url = https://github.com/fgcz/msbackendrawfilereader
+[submodule "specL"]
+	path = specL
+	url = https://github.com/fgcz/specl
 	shallow = true
 	registered = true
